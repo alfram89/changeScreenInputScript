@@ -13,7 +13,7 @@ This PowerShell script allows you to toggle the input source of one or two conne
 
 ## Prerequisites
 - PowerShell
-- MonitorConfig PowerShell module
+- [MonitorConfig PowerShell module](https://www.powershellgallery.com/packages/MonitorConfig/2.0)
 
 Install the required module (if not already present):
 `` Install-Module -Name MonitorConfig -RequiredVersion 2.0 -Scope CurrentUser ``
