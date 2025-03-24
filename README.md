@@ -16,8 +16,7 @@ This PowerShell script allows you to toggle the input source of one or two conne
 - [MonitorConfig PowerShell module](https://www.powershellgallery.com/packages/MonitorConfig/2.0)
 
 Install the required module (if not already present):
-`` Install-Module -Name MonitorConfig -RequiredVersion 2.0 -Scope CurrentUser ``
-
+`` Install-Module -Name MonitorConfig -RequiredVersion 2.0``
 You might need to run PowerShell as Administrator and allow script execution policies if required.
 
 ## Usage
